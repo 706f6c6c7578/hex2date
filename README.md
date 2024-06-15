@@ -1,5 +1,5 @@
 # hex2date
-Convert hex, or decimal values to UTC time stamps.
+Convert hex, or decimal values, to UTC time stamps.
 
 $ echo 67676767 | hex2date
 

@@ -1,5 +1,5 @@
 # hex2date
-Convert hex, or decimal, values to Unix Epoch time stamps.
+Convert hex, or decimal, values to time zones.
 
 $ echo 67676767 | hex2date
 
